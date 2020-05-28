@@ -1,5 +1,15 @@
 {
   "name": "play-workspaces",
-  "workspaces": ["packages/*"],
-  "private": true
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.22.0"
+  },
+  "scripts": {
+    "test": "lerna test",
+    "new-version": "lerna version --conventional-commits --yes"
+  },
+  "version": "1.0.2"
 }
