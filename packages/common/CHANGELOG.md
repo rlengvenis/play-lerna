@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/rlengvenis/play-lerna/compare/v1.1.1...v1.2.0) (2020-05-28)
+
+
+### Features
+
+* tripple console log ([03591cb](https://github.com/rlengvenis/play-lerna/commit/03591cb25ef39d4869e3b8731fc38458f4f1c8dd))
+
+
+
+
+
 ## [1.1.1](https://github.com/rlengvenis/play-lerna/compare/v1.1.0...v1.1.1) (2020-05-28)
 
 
