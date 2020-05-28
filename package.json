@@ -1,5 +1,5 @@
 {
   "name": "play-workspaces",
-  "workspaces": ["common", "server"],
+  "workspaces": ["packages/*"],
   "private": true
 }
